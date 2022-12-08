@@ -1,0 +1,34 @@
+.food {
+  width: auto;
+  height: 300px;
+}
+
+#carne-asada {
+  width: 330px;
+  height: 220px;
+}
+
+#gordon-ramsay {
+  width: auto;
+  height: 575px;
+}
+
+ul,
+ol {
+ font-family: Helvetica, "Courier New", Arial, sans-serif;
+}
+
+ul {
+  background-color: hsl(0, 100%, 50%);
+  color: rgb(255, 255, 0)
+}
+
+ol  {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial, Verdana, sans-serif;
+}
