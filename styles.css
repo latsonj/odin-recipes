@@ -138,6 +138,14 @@ h2, h3 {
   padding: 0px;
 }
 
+.recipe-link-styling:visited {
+  color: #ffdead;
+}
+
+.recipe-link-styling:visited:hover {
+  color: #ffc100;
+}
+
 .taco-subheading {
   border-bottom: 5px double #A6DAF7;
   width: 200px;
